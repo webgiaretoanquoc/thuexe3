@@ -1,0 +1,908 @@
+Uri: https://fonts.googleapis.com/css?family=Oswald:regular%2C500%2Cregular|-apple-system%2C+BlinkMacSystemFont%2C+"Segoe_UI",_Roboto,_Oxygen-Sans,_Ubuntu,_Cantarell,_"Helvetica_Neue",_sans-serif:regular,regular|Dancing_Script:regular,400&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Fcach-lua-chon-cac-dong-xe-du-lich-phu-hop-voi-chuyen-di-cua-ban%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login-17.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Fgia-thue-xe-7-cho-bao-nhieu-mot-ngay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login-15.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Fsan-pham%252Fbmw-i8%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Fsan-pham%252Fbmw-m3%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Fsan-pham%252Fhonda-civic-1-8e-model-2018%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Fsan-pham%252Fhuyndai-elantra%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Fsan-pham%252Fkia-cerato-2018%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Fsan-pham%252Fkia-cerato-model-2019%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Fsan-pham%252Fkia-sedona%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Fsan-pham%252Fmazda-6-2020%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Fsan-pham%252Fmercedes-c200-2019%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Fsan-pham%252Fmercedes-c200-model-2019%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login-18.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Fsan-pham%252Fmercedes-c250-2018%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Fsan-pham%252Fmisubishi-oulander-2019%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Fsan-pham%252Ftoyota-camry-2018%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Fsan-pham%252Ftoyota-fortuner-2019%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Fsan-pham%252Ftoyota-innova-2019%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Fthue-xe-7-cho-du-lich-can-than-nhung-chieu-tro-chat-chem-khach%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthuexe3.webtudong8giay.com%252Ftong-hop-cac-mau-hop-dong-thue-xe-o-to-tu-lai-theo-thang-van-chuyen%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\login-16.php
+Content Type: application/xhtml+xml
+
+Uri: https://thuexe3.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/author/ninhbinhweb-info/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\author\ninhbinhweb-info\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/author/ninhbinhweb-info/feed/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\author\ninhbinhweb-info\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thuexe3.webtudong8giay.com/cach-lua-chon-cac-dong-xe-du-lich-phu-hop-voi-chuyen-di-cua-ban/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\cach-lua-chon-cac-dong-xe-du-lich-phu-hop-voi-chuyen-di-cua-ban\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/cach-lua-chon-cac-dong-xe-du-lich-phu-hop-voi-chuyen-di-cua-ban/feed/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\cach-lua-chon-cac-dong-xe-du-lich-phu-hop-voi-chuyen-di-cua-ban\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thuexe3.webtudong8giay.com/category/dich-vu-thue-xe/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\category\dich-vu-thue-xe\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/category/dich-vu-thue-xe/feed/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\category\dich-vu-thue-xe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thuexe3.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thuexe3.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thuexe3.webtudong8giay.com/danh-muc/thue-xe-4-cho/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\danh-muc\thue-xe-4-cho\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/danh-muc/thue-xe-4-cho/feed/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\danh-muc\thue-xe-4-cho\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thuexe3.webtudong8giay.com/danh-muc/thue-xe-7-cho/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\danh-muc\thue-xe-7-cho\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/danh-muc/thue-xe-7-cho/feed/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\danh-muc\thue-xe-7-cho\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thuexe3.webtudong8giay.com/danh-muc/thue-xe-mercedes-bmw/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\danh-muc\thue-xe-mercedes-bmw\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/danh-muc/thue-xe-mercedes-bmw/feed/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\danh-muc\thue-xe-mercedes-bmw\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thuexe3.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thuexe3.webtudong8giay.com/gia-thue-xe-7-cho-bao-nhieu-mot-ngay/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\gia-thue-xe-7-cho-bao-nhieu-mot-ngay\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/gia-thue-xe-7-cho-bao-nhieu-mot-ngay/feed/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\gia-thue-xe-7-cho-bao-nhieu-mot-ngay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thuexe3.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/san-pham/bmw-i8/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\san-pham\bmw-i8\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/san-pham/bmw-m3/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\san-pham\bmw-m3\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/san-pham/honda-civic-1-8e-model-2018/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\san-pham\honda-civic-1-8e-model-2018\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/san-pham/huyndai-elantra/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\san-pham\huyndai-elantra\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/san-pham/kia-cerato-2018/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\san-pham\kia-cerato-2018\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/san-pham/kia-cerato-model-2019/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\san-pham\kia-cerato-model-2019\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/san-pham/kia-sedona/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\san-pham\kia-sedona\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/san-pham/mazda-6-2020/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\san-pham\mazda-6-2020\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/san-pham/mercedes-c200-2019/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\san-pham\mercedes-c200-2019\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/san-pham/mercedes-c200-model-2019/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\san-pham\mercedes-c200-model-2019\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/san-pham/mercedes-c250-2018/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\san-pham\mercedes-c250-2018\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/san-pham/misubishi-oulander-2019/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\san-pham\misubishi-oulander-2019\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/san-pham/toyota-camry-2018/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\san-pham\toyota-camry-2018\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/san-pham/toyota-fortuner-2019/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\san-pham\toyota-fortuner-2019\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/san-pham/toyota-innova-2019/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\san-pham\toyota-innova-2019\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/thue-xe-7-cho-du-lich-can-than-nhung-chieu-tro-chat-chem-khach/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\thue-xe-7-cho-du-lich-can-than-nhung-chieu-tro-chat-chem-khach\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/thue-xe-7-cho-du-lich-can-than-nhung-chieu-tro-chat-chem-khach/feed/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\thue-xe-7-cho-du-lich-can-than-nhung-chieu-tro-chat-chem-khach\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thuexe3.webtudong8giay.com/tong-hop-cac-mau-hop-dong-thue-xe-o-to-tu-lai-theo-thang-van-chuyen/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\tong-hop-cac-mau-hop-dong-thue-xe-o-to-tu-lai-theo-thang-van-chuyen\index.htm
+Content Type: text/html
+
+Uri: https://thuexe3.webtudong8giay.com/tong-hop-cac-mau-hop-dong-thue-xe-o-to-tu-lai-theo-thang-van-chuyen/feed/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\tong-hop-cac-mau-hop-dong-thue-xe-o-to-tu-lai-theo-thang-van-chuyen\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thuexe3.webtudong8giay.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-instant-page/flatsome-instant-page.js?ver=1.2.1
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-instant-page\flatsome-instant-page.js
+Content Type: application/javascript
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2019/09/line.png
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2019\09\line.png
+Content Type: image/png
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/1572238908_7491070724086430294060825219803149308526592n.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\1572238908_7491070724086430294060825219803149308526592n.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/1572239050_7436424217152547252786977810446316093308928n-2-247x185.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\1572239050_7436424217152547252786977810446316093308928n-2-247x185.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/1572239050_7436424217152547252786977810446316093308928n-2.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\1572239050_7436424217152547252786977810446316093308928n-2.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/cropped-step3-180x180.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\cropped-step3-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/cropped-step3-192x192.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\cropped-step3-192x192.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/cropped-step3-32x32.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\cropped-step3-32x32.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/gia-thue-xe-7-cho-bao-nhieu-2-150x150.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\gia-thue-xe-7-cho-bao-nhieu-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/icon-chat-messenger.png
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\icon-chat-messenger.png
+Content Type: image/png
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/icon-chat-zalo.png
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\icon-chat-zalo.png
+Content Type: image/png
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/km.gif
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\km.gif
+Content Type: image/gif
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/logo.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/mau-hop-dong-thue-xe-du-lich-150x150.png
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\mau-hop-dong-thue-xe-du-lich-150x150.png
+Content Type: image/png
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/phone-icon.png
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\phone-icon.png
+Content Type: image/png
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/protected_1559548079_img6822.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\protected_1559548079_img6822.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/protected_1567927951_img0674.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\protected_1567927951_img0674.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/protected_1571318984_724608266892466315665803809603663333163008n.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\protected_1571318984_724608266892466315665803809603663333163008n.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/protected_1571319314_7310381312782653357100888086172122595983360n.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\protected_1571319314_7310381312782653357100888086172122595983360n.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/protected_1572240565_7246279328399796560243115680904649159213056n-1.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\protected_1572240565_7246279328399796560243115680904649159213056n-1.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/protected_1580357674_img9601.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\protected_1580357674_img9601.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/top-hinh-nen-sieu-xe-34.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\top-hinh-nen-sieu-xe-34.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/xe-7-cho-huynh-gia-2-150x150.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\xe-7-cho-huynh-gia-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/z1898397794235_28628692730bc3138dd62916b3e2a389.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\z1898397794235_28628692730bc3138dd62916b3e2a389.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/z1898397801258_06983f4aae851ab32b0d109e0b4b7d43.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\z1898397801258_06983f4aae851ab32b0d109e0b4b7d43.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/z1898397804275_a129162c2adf4602f41286cd0ef16e29-247x185.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\z1898397804275_a129162c2adf4602f41286cd0ef16e29-247x185.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/z1898397804275_a129162c2adf4602f41286cd0ef16e29.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\z1898397804275_a129162c2adf4602f41286cd0ef16e29.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/z1898397809619_8361be1572e655c87b9fab51e770d1e0.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\z1898397809619_8361be1572e655c87b9fab51e770d1e0.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/z1898397813080_44a2548cebd499a8dd0fcde38dd65a34.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\z1898397813080_44a2548cebd499a8dd0fcde38dd65a34.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/z1898397821705_51ff9b5eb2e717f9d1ecfde64429930f-247x185.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\z1898397821705_51ff9b5eb2e717f9d1ecfde64429930f-247x185.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/z1898397821705_51ff9b5eb2e717f9d1ecfde64429930f.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\z1898397821705_51ff9b5eb2e717f9d1ecfde64429930f.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/z1898397825076_0c3482752db98549c0aacdaf2f43868b-1.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\z1898397825076_0c3482752db98549c0aacdaf2f43868b-1.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/z1898397853012_221919a87c2d55f07316674b3805cc5e.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\z1898397853012_221919a87c2d55f07316674b3805cc5e.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/z1898397855541_413714dfad09bc0c455bb58c43af6bb3.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\z1898397855541_413714dfad09bc0c455bb58c43af6bb3.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/z1898397863859_5dd2f5e26c88aebb793d482f18cf3bfc.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\z1898397863859_5dd2f5e26c88aebb793d482f18cf3bfc.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/z1898397894044_980d7b07d66a332673ac5a6cd1f2ba88-247x185.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\z1898397894044_980d7b07d66a332673ac5a6cd1f2ba88-247x185.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/z1898397894044_980d7b07d66a332673ac5a6cd1f2ba88.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\z1898397894044_980d7b07d66a332673ac5a6cd1f2ba88.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/z1898397896086_870d4bd95882d9556e2ad0594154df94.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\z1898397896086_870d4bd95882d9556e2ad0594154df94.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-content/uploads/2020/05/z1898397898860_5e1969b6baeea2bf6af7ac4583271886.jpg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-content\uploads\2020\05\z1898397898860_5e1969b6baeea2bf6af7ac4583271886.jpg
+Content Type: image/jpeg
+
+Uri: https://thuexe3.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://thuexe3.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://thuexe3.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://thuexe3.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://thuexe3.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fcach-lua-chon-cac-dong-xe-du-lich-phu-hop-voi-chuyen-di-cua-ban%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fcach-lua-chon-cac-dong-xe-du-lich-phu-hop-voi-chuyen-di-cua-ban%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fgia-thue-xe-7-cho-bao-nhieu-mot-ngay%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fgia-thue-xe-7-cho-bao-nhieu-mot-ngay%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fbmw-i8%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fbmw-i8%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fbmw-m3%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fbmw-m3%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fhonda-civic-1-8e-model-2018%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fhonda-civic-1-8e-model-2018%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fhuyndai-elantra%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fhuyndai-elantra%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fkia-cerato-2018%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fkia-cerato-2018%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fkia-cerato-model-2019%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fkia-cerato-model-2019%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fkia-sedona%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fkia-sedona%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fmazda-6-2020%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fmazda-6-2020%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fmercedes-c200-2019%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fmercedes-c200-2019%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fmercedes-c200-model-2019%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fmercedes-c200-model-2019%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fmercedes-c250-2018%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fmercedes-c250-2018%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fmisubishi-oulander-2019%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Fmisubishi-oulander-2019%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Ftoyota-camry-2018%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Ftoyota-camry-2018%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Ftoyota-fortuner-2019%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Ftoyota-fortuner-2019%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Ftoyota-innova-2019%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fsan-pham%2Ftoyota-innova-2019%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fthue-xe-7-cho-du-lich-can-than-nhung-chieu-tro-chat-chem-khach%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Fthue-xe-7-cho-du-lich-can-than-nhung-chieu-tro-chat-chem-khach%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Ftong-hop-cac-mau-hop-dong-thue-xe-o-to-tu-lai-theo-thang-van-chuyen%2F
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthuexe3.webtudong8giay.com%2Ftong-hop-cac-mau-hop-dong-thue-xe-o-to-tu-lai-theo-thang-van-chuyen%2F&format=xml
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/categories/25
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\categories\25
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/pages/10
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\pages\10
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/pages/12
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\pages\12
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/posts/594
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\posts\594
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/posts/597
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\posts\597
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/posts/611
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\posts\611
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/posts/613
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\posts\613
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/product/550
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\product\550
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/product/552
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\product\552
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/product/554
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\product\554
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/product/556
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\product\556
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/product/559
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\product\559
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/product/562
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\product\562
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/product/565
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\product\565
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/product/578
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\product\578
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/product/580
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\product\580
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/product/584
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\product\584
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/product/600
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\product\600
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/product/602
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\product\602
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/product/604
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\product\604
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/product/606
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\product\606
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/product/608
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\product\608
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/product_cat/22
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\product_cat\22
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/product_cat/23
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\product_cat\23
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/product_cat/24
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\product_cat\24
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://thuexe3.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/css/all.css
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/css/v4-shims.css
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\css\v4-shims.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\thuexe3.webtudong8giay.com\releases\v5.13.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
